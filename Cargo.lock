@@ -1,0 +1,4 @@
+[root]
+name = "c_ffi_test"
+version = "0.0.1"
+
